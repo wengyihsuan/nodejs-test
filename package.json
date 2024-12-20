@@ -1,10 +1,10 @@
 {
-  "name": "nodejs-argo",
+  "name": "nodejs-test",
   "version": "8.8.8",
   "description": "Thsi is a node project",
   "main": "index.js",
-  "author": "eooce",
-  "repository": "https://github.com/eooce/nodejs-argo",
+  "author": "wengyihsuan",
+  "repository": "https://github.com/wengyihsuan/nodejs-test",
   "license": "MIT",
   "private": false,
   "scripts": {
